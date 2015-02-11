@@ -1,5 +1,5 @@
 # ABC
-Our sandbox for learning about Approximate Bayesian Computation.
+A sandbox for learning about Approximate Bayesian Computation.
 
 In it you will find some toy problems, and our Fisher-Price ABC solutions to them. 
 
