@@ -7,7 +7,7 @@ In it you will find some toy problems, and our Fisher-Price ABC solutions to the
 
 ### Disclaimer
 
-This repo is mostly about Adam Mantz and Phil Marshall learning their ABC together. You're welcome to join in, pass comment, offer advice etc, but if you're looking for advanced statistical insights you're probably best off looking elsewhere :-)
+This repo is mostly about Adam Mantz, Doug Applegate and Phil Marshall learning their ABC together. You're welcome to join in, pass comment, offer advice etc, but if you're looking for advanced statistical insights you're probably best off looking elsewhere :-)
 
 ### Players
 
