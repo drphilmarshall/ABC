@@ -9,9 +9,9 @@ This repo is mostly about Adam Mantz and Phil Marshall learning their ABC togeth
 
 ### Players
 
-* Phil Marshall (KIPAC, Stanford - @drphilmarshall)
-* Adam Mantz (KICP, Chicago - @abmantz)
-* Doug Applegate (AIFA, Bonn - @deapplegate)
+* Phil Marshall (KIPAC, Stanford - [@drphilmarshall](https://github.com/drphilmarshall))
+* Adam Mantz (KICP, Chicago - [@abmantz](https://github.com/abmantz))
+* Doug Applegate (AIFA, Bonn - [@deapplegate](https://github.com/deapplegate))
 
 ### License
 
