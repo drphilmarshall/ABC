@@ -7,3 +7,5 @@ Is this the simplest possible parameter inference problem?
 * Test statistic: $S = \frac{1}{N-1}\Sum (x-\bar{x})^2$
 
 Use ABC to infer $Pr(\sigma|d,H)$ via consideration of $Pr(S(x_{obs}),S(x))
+
+* [IPython Notebook Demo](http://nbviewer.ipython.org/github/drphilmarshall/ABC/blob/master/examples/GaussianWidth.ipynb)
