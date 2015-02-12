@@ -3,7 +3,7 @@ A sandbox for learning about Approximate Bayesian Computation.
 
 In it you will find some toy problems, and our Fisher-Price ABC solutions to them. 
 
-* [Inferring the width of a Gaussian](https://github.com/drphilmarshall/ABC/examples/blob/master/GaussianWidth.md)
+* [Inferring the width of a Gaussian](https://github.com/drphilmarshall/ABC/blob/master/examples/GaussianWidth.md)
 
 ### Disclaimer
 
