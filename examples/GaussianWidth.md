@@ -20,4 +20,10 @@ Let's simplify even further to start with, and assume we know the mean. Solving 
 The true posterior for this case is the scaled inverse-$\chi^2$ distribution with parameters $N$ and $S_{obs}$. So we have a point of reference. [wikipedia](https://en.wikipedia.org/wiki/Scaled_inverse_chi-squared_distribution)
 
 I played with this in R, using the simple rejection algorithm described [here](https://en.wikipedia.org/wiki/Approximate_Bayesian_computation#The_ABC_rejection_algorithm).
-* [GaussianWidth.R]
+* [GaussianWidth.R](https://github.com/drphilmarshall/ABC/blob/master/examples/GaussianWidth.R)
+
+![foo][sim1]
+
+Here the histogram is of the accepted samples of $\sigma^2$ and the curve is the exact posterior distribution.
+
+[sim1]: https://github.com/drphilmarshall/ABC/blob/master/examples/GaussianWidth_Rsim1.png
